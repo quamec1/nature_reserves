@@ -109,7 +109,8 @@ button:hover {
     background-color: #53ec5b;
 }
 button {
-    width: 10%;
+    width: fit-content;
+    overflow: hidden;
     padding: 10px;
     background-color: #16053d;
     color: white;
@@ -289,4 +290,5 @@ font-size: 1rem;
     color: #2e7d32;
     font-size: 1.3rem;
     margin-bottom: 10px;
+
    }
