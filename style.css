@@ -107,8 +107,9 @@ footer {
 }
 button:hover {
     background-color: #53ec5b;
+}
 
-    @media screen and (max-width: 450px) {
+@media screen and (max-width: 450px) {
     button {
         font-size: 14px;
         padding: 8px 16px;
@@ -298,11 +299,4 @@ font-size: 1rem;
     color: #2e7d32;
     font-size: 1.3rem;
     margin-bottom: 10px;
-
    }
-
-
-
-
-
-
