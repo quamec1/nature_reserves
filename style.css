@@ -108,6 +108,11 @@ footer {
 button:hover {
     background-color: #53ec5b;
 }
+@media screen and (maw-width: 480px) {
+    button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
 button {
     width: fit-content;
     overflow: hidden;
@@ -294,4 +299,5 @@ font-size: 1rem;
     margin-bottom: 10px;
 
    }
+
 
